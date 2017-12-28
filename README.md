@@ -1,4 +1,4 @@
-# vimR
+# vEditor
 
 ![App Icon](https://raw.github.com/qvacua/vimr/master/resources/vimr-app-icon.png)
 
@@ -22,8 +22,8 @@ git submodule init
 git submodule update
 ```
 
-Build via [Swift](https://github.com/qvacua/vimr#swiftneovim), Xcode 9, (and
-Homebrew):
+Build via [Swift](https://github.com/qvacua/vimr#swiftneovim), Xcode 9, and
+Homebrew:
 
 ```bash
 xcode-select --install # install the Xcode command line tools, if you haven't already
